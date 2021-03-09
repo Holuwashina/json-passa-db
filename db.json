@@ -2,16 +2,16 @@
   "platforms": [
     {
       "id": 0,
-      "platformName": "University",
-      "platformImageUrl": "/images/secondary.svg",
-      "platformInfo": "Select your admitted University & explore",
+      "name": "University",
+      "imageUrl": "/images/secondary.svg",
+      "info": "Select your admitted University & explore",
       "platformList": [
         {
-          "id": "Tasued",
+          "id": "TASUED",
           "name": "Tai-solarin-university-of-education"
         },
         {
-          "id": "Lautech",
+          "id": "LAUTECH",
           "name": "Ladoke-akintola-university-of-technology"
         },{
           "id": "OAU",
@@ -21,25 +21,25 @@
     },
     {
       "id": 1,
-      "platformName": "Polytechnic",
-      "platformImageUrl": "/images/polytechnic.svg",
-      "platformInfo": "Select your admitted polytechnic & explore",
+      "name": "Polytechnic",
+      "imageUrl": "/images/polytechnic.svg",
+      "info": "Select your admitted polytechnic & explore",
       "platformList": [
         {
-          "id": "Poly-ibadan",
+          "id": "POLY-IBADAN",
           "name": "The polytechnic of ibadan"
         },
         {
-          "id": "Mapoly",
+          "id": "MAPOLY",
           "name": "Moshood abiola polytechnic"
         }
       ]
     },
     {
       "id": 2,
-      "platformName": "Sec School",
-      "platformImageUrl": "/images/university.svg",
-      "platformInfo": "Explore JSS1 - JSS3 & SSS1 - SSS3 classes",
+      "name": "Sec School",
+      "imageUrl": "/images/university.svg",
+      "info": "Explore JSS1 - JSS3 & SSS1 - SSS3 classes",
       "platformList": [
         {
           "id": "JSS 1 - 3",
@@ -54,13 +54,13 @@
   ],
   "schools" : [
     {
-      "id": "Tasued",
+      "id": "TASUED",
       "slug": "Tai-solarin-university-of-education",
       "name": "TAI SOLARIN UNIVERSITY OF EDUCATION IJAGUN, IJEBU-ODE.",
-      "info": "The Nation's Premier University of Education, the unique selling proposition is formula 1-2-8 [ 1st in Nigeria, 2nd in Africa and 8th in the world ] as claimed."
+      "info": "The Nation's Premier University of Education."
     },
     {
-      "id": "Lautech",
+      "id": "LAUTECH",
       "slug": "Ladoke-akintola-university-of-technology",
       "name": "LADOKE AKINTOLA UNIVERSITY OF TECHNOLOGY."
     },
